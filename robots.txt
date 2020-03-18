@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diecahfui.cps-spc.org/sitemap.xml
